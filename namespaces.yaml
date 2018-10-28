@@ -1,0 +1,14 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: sre
+---
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: dev1
+---
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: dev2

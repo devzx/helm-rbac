@@ -1,0 +1,11 @@
+kind: ServiceAccount
+apiVersion: v1
+metadata:
+  name: tiller
+  namespace: dev1
+---
+kind: ServiceAccount
+apiVersion: v1
+metadata:
+  name: tiller
+  namespace: dev2
